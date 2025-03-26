@@ -1,0 +1,21 @@
+ID;Nome;Idade;Data de Registro;Salário;Ativo;Departamento;ID Capital;Questionario-1;Questionario-2
+1;Sra. Isabela Vasconcelos;44;11/02/2022;443513;VERDADEIRO;Financeiro;1;Estou satisfeito com empresa;Crescimento
+2;Heitor Teixeira;40;17/01/2022;783497;FALSO;TI;4;Muita Trabalho pouco reconhecimento;Reconhecimento
+3;Bianca Vasconcelos;44;28/10/2022;309455;FALSO;TI;4;Pouco investimento em pessoas;Reconhecimento
+4;Alice Machado;40;10/10/2023;62872;VERDADEIRO;TI;4;Não vejo retorno;Reconhecimento
+5;Antônio Fernandes;54;09/08/2023;713843;VERDADEIRO;Financeiro;1;Empresa valoriza a equipe;Felicidade
+6;Henry Gabriel da Mata;42;26/01/2024;494162;FALSO;Financeiro;3;Temos bons retorno de capital;Crescimento
+7;Sra. Maria Luiza Oliveira;58;24/08/2024;711125;VERDADEIRO;Marketing;2;Tens dias ruins e dias mal;Felicidade
+8;Isis Marques;24;05/02/2023;843866;VERDADEIRO;Vendas;4;Pouco Investimento;Insatisfeito
+9;Sr. Vitor da Rosa;61;25/03/2024;236385;FALSO;Vendas;4;Pouco retorno;Reconhecimento
+10;Théo Cardoso;54;05/09/2022;802965;VERDADEIRO;TI;3;Gosto do que eu faço;Crescimento
+11;Marcelo Rodrigues;57;06/02/2024;810935;VERDADEIRO;Vendas;1;O retorno e baixo;Insatisfeito
+12;Maria Clara Santos;39;21/10/2023;260168;VERDADEIRO;RH;1;Pouca gente na equipe;Insatisfeito
+13;Sofia Rios;45;19/05/2023;499001;FALSO;Vendas;3;Produtos caros;Insatisfeito
+14;Benicio das Neves;22;15/04/2022;254154;VERDADEIRO;Marketing;3;Estamos em fase de crescimento;Crescimento
+15;Levi Silveira;42;10/02/2024;926198;VERDADEIRO;Marketing;3;Aprendendo juntos para crescer;Felicidade
+16;Maria Fernanda Rezende;29;18/11/2023;743621;FALSO;RH;4;muito serviço;Reconhecimento
+17;Thomas Casa Grande;33;29/03/2024;82059;FALSO;TI;4;Não tem nem café;Insatisfeito
+18;Davi Miguel Ribeiro;48;10/07/2022;262501;FALSO;Marketing;4;Querem que façamos milagre;Insatisfeito
+19;Dr. Mathias Montenegro;20;17/08/2023;956683;FALSO;Financeiro;1;Não tenho que reclamar;Felicidade
+20;Samuel Gonçalves;21;03/10/2023;388499;VERDADEIRO;RH;1;gosto do que eu faço;Crescimento
